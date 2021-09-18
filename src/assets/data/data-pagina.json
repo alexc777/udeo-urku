@@ -1,0 +1,29 @@
+{
+  "titulo": "Os UdeO portafolio",
+  "email": "info@mail.com",
+  "nombre_corto": "Graphic Designer",
+  "pagina_autor": "https://github.com/alexc777",
+  "facebook": "https://facebook.com/",
+  "twitter": "http://twitter.com/",
+  "instagram": "https://www.instagram.com/",
+  "tublr": "https://www.tumblr.com/",
+  "equipo_trabajo": [
+    {
+      "nombre": "Juan",
+      "apellido": "Santos",
+      "dpi": "345t345435",
+      "dependientes": [
+        {
+          "nombre": "Juan JR",
+          "apellido": "Santos",
+          "dpi": "12345467"
+        },
+        {
+          "nombre": "Oscar",
+          "apellido": "Ruiz",
+          "dpi": "87654545"
+        }
+      ]
+    }
+  ]
+}
